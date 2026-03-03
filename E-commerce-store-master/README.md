@@ -2,7 +2,7 @@
 
 # 🛒 E-Commerce Store
 
-A full-stack **E-Commerce web application** built using **Spring Boot**, **MySQL**, and **HTML/CSS/JavaScript**, where users can browse products, add items to cart, place orders, and make payments using **Razorpay**.
+Designed and developed a full-stack E-Commerce web application using Spring Boot, MySQL, HTML, CSS, and JavaScript, enabling product browsing, cart management, order processing, and secure online payments via Razorpay. Built with RESTful architecture, database integration, and admin product management features.
 
 ---
 
